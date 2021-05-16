@@ -43,5 +43,16 @@
 }
 
 .seleccion{
-    width: 30%;
+    width: 100%;
+}
+
+#tresPasosFlex{
+    display: flex;
+    width: 60%;
+    margin:0 auto;
+}
+
+.noEncontrar{
+    background-color: #009EC9;
+    color: white;
 }
