@@ -1,0 +1,26 @@
+
+.registroDividido{
+    display:flex;
+    width:50rem;
+}
+.dropdown-menu{
+    padding:20px;
+}
+.input{
+    width:45%;
+}
+.navbar-nav{
+    margin:0 auto;
+}
+.amarillo{
+    color:#AD8C1D;
+}
+#rosaNav{
+    background-color: #E5007D  !important;
+}
+.rosaList > li{
+    margin:0px 1rem;
+}
+.rosaList > li:hover{
+    background-color: rgb(114,0,62);
+}
